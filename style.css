@@ -1,0 +1,45 @@
+body {
+	background-color: #121212 !important;
+}
+
+:root {
+--color-primary-black: #ffffff !important;
+--color-primary-white: #282828 !important;
+--color-primary-navy-blue: #f1f1f1 !important;
+--color-primary-sky-blue: #ffffff !important;
+--color-primary-action-red: #ff1e00 !important;
+--color-primary-gray: #1c1c1c !important;
+    --color-secondary-price-red: #c00 !important;
+    --color-secondary-text-red: #cb290f !important;
+    --color-secondary-elm-red: #f2654e !important;
+    --color-secondary-bg-red: #fef0ed !important;
+    --color-secondary-lime-green: #8cc63f !important;
+    --color-secondary-text-green: #074f3c !important;
+    --color-secondary-elm-green: #cfcfcf !important;
+    --color-secondary-bg-green: #e7f7f3 !important;
+    --color-secondary-lemon-yellow: #ffcd00 !important;
+    --color-secondary-text-brown: #ffffff !important;
+    --color-secondary-elm-brown: #c09853 !important;
+    --color-secondary-bg-brown: #2c2407 !important;
+    --color-secondary-gold: #282828 !important;
+    --color-secondary-text-blue: #ffffff !important;
+    --color-secondary-elm-blue: #ffffff !important;
+    --color-secondary-bg-blue: #767676 !important;
+    --color-grayscale-1: #e0e7ef !important;
+    --color-grayscale-2: #e0e7ef !important;
+    --color-grayscale-3: #cbd3dd !important;
+    --color-grayscale-4: #0233681a !important;
+    --color-grayscale-elm-1: #0233681a !important;
+    --color-grayscale-elm-2: #cbd3dd !important;
+    --shadow-1: 0px 1px 2pxhsla(0,0%,9%,.08),0px 2px 5pxrgba(2,51,104,.1),0px 0px 1pxrgba(2,51,104,.03) !important;
+    --shadow-2: 0px 1px 10pxhsla(0,0%,9%,.08),0px 5px 5pxhsla(0,0%,9%,.16),0px 2px 4pxhsla(0,0%,9%,.35) !important;
+    --shadow-3: 0 1px 1px 0rgba(51,51,51,.1) !important;
+    --inner-shadow-1: inset 0px -16px 16pxrgba(0,0,0,.16) !important;
+    --inner-shadow-2: inset 0px -16px 16pxhsla(0,0%,60%,.16) !important;
+    --inner-shadow-3: inset 0px -16px 16pxrgba(224,231,239,.3) !important;
+    --inner-shadow-4: inset 0px -1px 0px #e0e7ef !important;
+}
+
+label {
+	color: #ffffff !important;
+}
